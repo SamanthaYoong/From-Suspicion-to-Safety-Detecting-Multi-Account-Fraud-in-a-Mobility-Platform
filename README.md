@@ -49,7 +49,7 @@ SELECT
 FROM referrals
 GROUP BY user_id
 HAVING referral_count > 10 AND (device_count = 1 OR ip_count = 1);
-
+```
 ---
 
 ### 2. Time Series Anomaly Detection
