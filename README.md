@@ -5,6 +5,8 @@
 **Focus**: Behavioural risk detection, fraud mitigation, dashboard reporting  
 **Tools**: SQL · Tableau · Excel · Statistical Modeling
 
+🔗 [View the Interactive Tableau Dashboard](https://public.tableau.com/views/FromSuspiciontoSafetyDetectingMulti-AccountFraudinaMobilityPlatform/ExecutiveOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## 📊 Dashboard Preview
 
 ![Dashboard Preview](Executive-Overview.png)
