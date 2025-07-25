@@ -7,7 +7,7 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](Executive Overview (4).png)
+![Dashboard Preview](Executive-Overview.png)
 ---
 
 ## 🌐 Objective
