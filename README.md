@@ -5,6 +5,9 @@
 **Focus**: Behavioural risk detection, fraud mitigation, dashboard reporting  
 **Tools**: SQL · Tableau · Excel · Statistical Modeling
 
+## 📊 Dashboard Preview
+
+![Dashboard Preview](Netflix-Pricing-Tier-LTV-Experiment-Merged-Test-of-Feature-&-Price-Impact.png)
 ---
 
 ## 🌐 Objective
