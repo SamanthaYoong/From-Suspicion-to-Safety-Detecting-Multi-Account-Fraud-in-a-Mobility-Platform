@@ -1,4 +1,4 @@
-# From Suspicion to Safety: Detecting Multi-Account Fraud in a Mobility Platform
+# From Suspicion to Safety: Detecting Multi-Account Fraud in Grab (Case Study | Stimulation)
 
 **Role Target**: Data Analyst – Integrity (Trust, Identity & Safety), Grab  
 **Author**: Samantha Yoong  
